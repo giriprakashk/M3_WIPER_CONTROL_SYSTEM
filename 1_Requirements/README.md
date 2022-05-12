@@ -67,3 +67,17 @@ Assume the microcontroller is the vehicle. When the button is pressed, the first
 ![image](https://user-images.githubusercontent.com/101519714/168157929-b73db80f-8024-45f5-a0d7-5569bddf8277.png)
 # 4 W&H (What,Why,Who,When,How)
 ![image](https://user-images.githubusercontent.com/101519714/168166028-e789ff4d-823c-4163-881c-7924025f4d4d.png)
+# High Level Requirements
+ID | Description | Status
+-- | -- | --
+HR_01 | It will LOCK the vehicle. | Implemted
+HR_02 | It will unlock the vehicle. | Implemted
+HR_03 | It will turn on the wiper system. | Implemted
+HR_04 | It will turn off the wiper system. | Implemted
+# Low Level Requirements
+ID | Description | Status
+-- | -- | --
+LR_01 | ON LED RED - if the button is pushed ONCE. | Implemted
+LR_02 | OFF RED LED - if the button is pushed TWICE | Implemted
+LR_03 | ON BLUE,GREEN,ORANGE LEDS - if the button is pushed THREE TIMES | Implemted
+LR_04 | ON ORANGE, GREEN, and BLUE LEDS - if the button is pushed FOUR times | Implemted
