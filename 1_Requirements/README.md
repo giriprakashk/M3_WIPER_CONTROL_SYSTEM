@@ -63,3 +63,5 @@ Assume the microcontroller is the vehicle. When the button is pressed, the first
 * Blades that have not been inserted properly may flop/wiggle freely when operating, resulting in irregular wipes.
 * Wipers are worn out. Blades will wear/dry out as a result of exposure to the sun, heat, cold, time, debris, and use.
 * Leaving the rubber edge protectors on the blades during installation.
+# SWOT Analysis
+![image](https://user-images.githubusercontent.com/101519714/168157929-b73db80f-8024-45f5-a0d7-5569bddf8277.png)
