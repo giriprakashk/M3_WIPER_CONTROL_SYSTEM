@@ -65,3 +65,5 @@ Assume the microcontroller is the vehicle. When the button is pressed, the first
 * Leaving the rubber edge protectors on the blades during installation.
 # SWOT Analysis
 ![image](https://user-images.githubusercontent.com/101519714/168157929-b73db80f-8024-45f5-a0d7-5569bddf8277.png)
+# 4 W&H (What,Why,Who,When,How)
+![image](https://user-images.githubusercontent.com/101519714/168166028-e789ff4d-823c-4163-881c-7924025f4d4d.png)
