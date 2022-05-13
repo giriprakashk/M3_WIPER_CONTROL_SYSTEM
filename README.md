@@ -1,4 +1,15 @@
 # M3_WIPER_CONTROL_SYSTEM
+# Badges
+## Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a6f0226e499a44dd962e69fa64d6e779)](https://www.codacy.com/gh/giriprakashk/M3_WIPER_CONTROL_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=giriprakashk/M3_WIPER_CONTROL_SYSTEM&amp;utm_campaign=Badge_Grade)
+## Codiga
+* Code Grade
+![code Grade Badge](https://api.codiga.io/project/33391/status/svg)
+* Code Quality
+![Code Quality Badge](https://api.codiga.io/project/33391/score/svg)
+
+
+
 Folder | Description
 -- | --
 0_Abstract | Explaination of the project
