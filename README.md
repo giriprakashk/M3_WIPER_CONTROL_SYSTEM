@@ -1,15 +1,19 @@
 # M3_WIPER_CONTROL_SYSTEM
 # Badges
-## Codacy
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a6f0226e499a44dd962e69fa64d6e779)](https://www.codacy.com/gh/giriprakashk/M3_WIPER_CONTROL_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=giriprakashk/M3_WIPER_CONTROL_SYSTEM&amp;utm_campaign=Badge_Grade)
 ## Codiga
 * Code Grade
 ![code Grade Badge](https://api.codiga.io/project/33391/status/svg)
 * Code Quality
 ![Code Quality Badge](https://api.codiga.io/project/33391/score/svg)
+## Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a6f0226e499a44dd962e69fa64d6e779)](https://www.codacy.com/gh/giriprakashk/M3_WIPER_CONTROL_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=giriprakashk/M3_WIPER_CONTROL_SYSTEM&amp;utm_campaign=Badge_Grade)
+## Build On Linux
+[![Build-Linux](https://github.com/giriprakashk/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/giriprakashk/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Build%20on%20Linux.yml)
+## CppCheck Analysis
+[![Cppcheck Analysis](https://github.com/giriprakashk/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Cppcheck%20Analysis.yml/badge.svg)](https://github.com/giriprakashk/M3_WIPER_CONTROL_SYSTEM/actions/workflows/Cppcheck%20Analysis.yml)
 
 
-
+## Wiper Control System
 Folder | Description
 -- | --
 0_Abstract | Explaination of the project
