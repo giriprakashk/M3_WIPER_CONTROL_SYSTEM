@@ -112,7 +112,7 @@ Test ID |	Description |	Exp.i/p |	Exp.o/p |	Actual o/p |	STATUS
 3 |	check if the Button is pressed	again | program execution	| Wiper starts and speed of wiper is medium	| LED ON(GREEN)	 | PASS
 4 |	check if the Button is pressed again |	program execution | program execution Wiper starts and speed of wiper is good	| LED ON(ORANGE) | PASS
 5	| check if the Button is pressed	again | -	| Microcontroller/Engine stops	| LED TURNED OFF | PASS
-# Output Images
+# Images
 ## OFF State
 ![image](https://user-images.githubusercontent.com/101519714/168459632-817562d1-1f53-4530-aa82-5c42aab027eb.png)
 ## ON State
@@ -128,3 +128,7 @@ Test ID |	Description |	Exp.i/p |	Exp.o/p |	Actual o/p |	STATUS
 ![image](https://user-images.githubusercontent.com/101519714/168275143-250917bd-5111-4363-8d8e-38aa0830bd8b.png)
 ## Wiper_Control_System
 ![wiper_control_system](https://user-images.githubusercontent.com/101519714/168275703-7066dbf6-32c3-4e1c-a99a-a8840f259d37.png)
+# Video
+## Wiper Control System
+https://user-images.githubusercontent.com/101519714/168473384-0f0fec80-8bcd-41b4-ac8e-948fbeed768c.mp4
+
