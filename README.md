@@ -1,4 +1,5 @@
 # M3_WIPER_CONTROL_SYSTEM
+In vehicles, a wiper control system uses an electronic component to replace the typical wiper blade. A single switch in the ACC position will control the ignition button (on the motor) with this design. With a second push, switch on the wiper system, then change the wiper speed with a third press, and then turn off the motor with a fourth press. LEDs and a simulation tool were used to accomplish this. A wiper is an important component that removes rain or any other liquid from a vehicle's windscreen. The former system needed manual wiper activation, which was difficult to do. As a result, this technology is being touted as a potential solution to these issues.The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. 
 # Badges
 ## Codiga
 * Code Grade
