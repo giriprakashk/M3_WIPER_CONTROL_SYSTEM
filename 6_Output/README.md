@@ -1,4 +1,4 @@
-# Output Images
+# Images
 ## OFF State
 ![image](https://user-images.githubusercontent.com/101519714/168459632-817562d1-1f53-4530-aa82-5c42aab027eb.png)
 ## ON State
