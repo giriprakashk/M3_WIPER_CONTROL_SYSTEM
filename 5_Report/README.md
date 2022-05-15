@@ -114,12 +114,12 @@ Test ID |	Description |	Exp.i/p |	Exp.o/p |	Actual o/p |	STATUS
 5	| check if the Button is pressed	again | -	| Microcontroller/Engine stops	| LED TURNED OFF | PASS
 # Output Images
 ## OFF State
-![image](https://user-images.githubusercontent.com/101519714/168273557-bf0c96a8-e79f-4c2a-be74-83021ae3133b.png)
+![image](https://user-images.githubusercontent.com/101519714/168459632-817562d1-1f53-4530-aa82-5c42aab027eb.png)
 ## ON State
 ## 1.Press Button and Hold for 2 Seconds
 ![image](https://user-images.githubusercontent.com/101519714/168273912-2ee9f058-4e27-46b6-be87-c71e53cc8db7.png)
 ## 2.Wiper Speed is Low
-![image](https://user-images.githubusercontent.com/101519714/168274007-e7301ac7-399c-46cf-8d2b-7dd0aa85574a.png)
+![image](https://user-images.githubusercontent.com/101519714/168459522-852345c2-6d58-497a-a073-ffac58465b2c.png)
 ## 3.Wiper Speed is Medium
 ![image](https://user-images.githubusercontent.com/101519714/168274417-b0699cfb-aa55-4544-80c9-5a14c9c1ab7b.png)
 ## 4.Wiper Speed is High
@@ -128,5 +128,3 @@ Test ID |	Description |	Exp.i/p |	Exp.o/p |	Actual o/p |	STATUS
 ![image](https://user-images.githubusercontent.com/101519714/168275143-250917bd-5111-4363-8d8e-38aa0830bd8b.png)
 ## Wiper_Control_System
 ![wiper_control_system](https://user-images.githubusercontent.com/101519714/168275703-7066dbf6-32c3-4e1c-a99a-a8840f259d37.png)
-
-
